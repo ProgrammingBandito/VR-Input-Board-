@@ -153,7 +153,7 @@ In my testing i found Marui NGRS recoil to be fine. But obviously not enough, ag
 
 Future update to this guide will need a section about mechanical dampening. 
 
-##SOFTWARE GUIDE: 
+## SOFTWARE GUIDE: 
 
 We are now entering what I would claim to be the hardest and most difficult part of making this work. 
 The software is fickle due to constant updates potentially breaking SteamVR input functionality with regards to external hooks and access. 
