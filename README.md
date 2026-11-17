@@ -1,5 +1,6 @@
 # Custom VR Controller guide 2026:
 
+Warning: V0.2, not complete.
 
 ## Introduction: 
 
