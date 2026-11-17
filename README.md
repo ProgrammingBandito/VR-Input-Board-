@@ -246,43 +246,18 @@ Good luck and all the best!!
 
 
 
+## Safety and Liability Disclaimer:
+
+The user assumes the risk of undertaking this open source guide. This guide is provided only as an educational guide for the purpose of learning and research. It is provided as is, no form of guarantee or warranty is ensured, expressed or implied.
+
+This project and resulting device has had no certification by any regulatory body or organisation i.e. RoHS, FCC, CA UK or CE. The user i.e. reader or project maker is solely responsible for all risks they under take.
+
+The author is under no liability under any circumstances for any injury, harm, loss, damage arising of their attempt to carry out this project. Do at your own risk!!!
 
 
+## Open Source License:
 
+This project is published under the CERN OHS-L 2.0 Open Source Liccense.
+Copyright November 2026 belonging to ProgrammingBandito. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## ⚠️ Safety & Liability Disclaimer
-
-This project is an open-source hardware design shared for educational, experimental, and research purposes only. **It is provided "AS IS" without warranty of any kind, express or implied.**
-
-* **No Professional Certification:** This design has not been certified by any regulatory or safety body (such as CE, FCC, UL, or RoHS). You are solely responsible for ensuring that any device you build or operate complies with local laws, safety standards, and regulations.
-* **User Responsibility:** Building and operating hardware involves inherent risks, including electrical shock, fire, mechanical injury, and property damage. You assume all risks associated with assembling, modifying, testing, or using this design.
-* **Limitation of Liability:** Under no circumstances shall the author(s) or contributors be held liable for any injury, death, property damage, data loss, or other damages arising from the use, misuse, or inability to use these design files or any physical hardware built from them. See Section 7 of the [LICENSE](./LICENSE) file for full legal terms.
-
-
-
-CERN OHS-L 2.0
-Copyright 2026 [VR-Firearms, ProgrammingBandito]
-SPDX-License-Identifier: CERN-OHL-S-2.0## License
-Copyright 2026 [Your Name or Handle]
-
-This hardware design and associated documentation are licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**. 
-
-You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-S-2.0. See the [LICENSE](./LICENSE) file for the full text.
+This project including all software and hardware files and guide are licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**. 
